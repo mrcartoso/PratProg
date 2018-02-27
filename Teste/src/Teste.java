@@ -1,4 +1,4 @@
 
-public abstract class Teste {
-	abstract double area();
+public  class Teste {
+	 double area = 0;
 }
